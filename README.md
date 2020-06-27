@@ -7,4 +7,4 @@ Reduced rank nonlinear filters are increasingly utilized in data assimilation of
 
 **LSTM Nudging framework:**              
 
-<img src="https://github.com/surajp92/LSTM_Nudging/blob/master/da_lstm_framework.png" width="500" height="350" >
+<img src="https://github.com/surajp92/LSTM_Nudging/blob/master/da_lstm_framework.png" width="700" height="450" >
